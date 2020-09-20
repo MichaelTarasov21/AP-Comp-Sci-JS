@@ -18,5 +18,3 @@ var name;
 Can create const values that can not be changed using
 const name = value;
 Helps with not reusing name of variable by accident
-
-
