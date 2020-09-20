@@ -1,0 +1,10 @@
+Variables can be used to store numbers that need to be updated.
+Ex: Health Bars
+var name = value;
+
+Must put semi-colon after every line or error: unexpected token
+
+Quotes around text make the text a string
+
+// to comment out the rest of a line
+
